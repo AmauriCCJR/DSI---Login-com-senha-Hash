@@ -2,7 +2,7 @@
 session_start();
 require 'users.php';
 
-
+//qualquer coisa
 
 $error = '';
 
